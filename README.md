@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatjkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phatjkk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Some tool:
+Some toolkit:
 
-https://phatjkk.github.io/movie
+torrent-stream-site: https://phatjkk.github.io/movie
 
-https://phatjkk.github.io/laikep.html
+compounding-caculator: https://phatjkk.github.io/laikep.html
