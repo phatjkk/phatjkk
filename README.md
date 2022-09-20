@@ -23,4 +23,6 @@ compounding-caculator: https://phatjkk.github.io/laikep.html
 
 coza-store-e-commerce: http://cozastoreproject.ml/
 
+tarot-game (fortune teller): https://phatjkk.github.io/tarot/
+
 ### More about me: https://phatjkk.github.io/
