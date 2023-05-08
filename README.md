@@ -23,6 +23,6 @@ compounding-caculator: https://phatjkk.github.io/laikep.html
 
 tarot-game (fortune teller): https://phatjkk.github.io/tarot/
 
-erial shop (business project): https://www.erialshop.com/
+erial-shop (business project): https://www.erialshop.com/
 
 ### More about me: https://phatjkk.github.io/
