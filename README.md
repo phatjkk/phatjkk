@@ -25,4 +25,9 @@ tarot-game (fortune teller): https://phatjkk.github.io/tarot/
 
 erial-shop (business project): https://www.erialshop.com/
 
+### Certificates
+
+(Google) TensorFlow Developer Certificate (2023 - 2026):
+https://www.credential.net/e0d73e11-673c-4116-bd9c-976aea8d6ef3
+
 ### More about me: https://phatjkk.github.io/
