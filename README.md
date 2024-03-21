@@ -33,4 +33,6 @@ erial-shop (business project): https://www.erialshop.com/
 
 https://www.credential.net/e0d73e11-673c-4116-bd9c-976aea8d6ef3
 
+### LEETCODE Profile: https://leetcode.com/phatjkk/
+
 ### More about me: https://phatjkk.github.io/
