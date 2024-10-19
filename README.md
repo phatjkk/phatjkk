@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, my name is Phat, a full-stack web developer + ai engineer.
+### I'm a freelancer, contact for work: phatjk.work@gmail.com
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatjkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phatjkk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Online project
