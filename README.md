@@ -29,6 +29,8 @@ compounding-caculator: https://phatjkk.github.io/laikep.html
 
 tarot-game (fortune teller): https://phatjkk.github.io/tarot/
 
+flashcard-english: https://kato-english.web.app/
+
 ### Certificates
 
 (Google) TensorFlow Developer Certificate (2023 - 2026):
