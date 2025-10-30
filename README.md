@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi, my name is Phat, a full-stack web developer + ai engineer.
-### I'm a freelancer, contact for work: phatjk.work@gmail.com
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatjkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phatjkk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,5 +39,3 @@ https://www.credential.net/e0d73e11-673c-4116-bd9c-976aea8d6ef3
 ### LEETCODE Profile: https://leetcode.com/phatjkk/
 
 ### Youtube Channel: www.youtube.com/@AutoitTutorialReturn
-
-### More about me: https://phatjkk.github.io/
